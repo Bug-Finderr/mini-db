@@ -272,8 +272,8 @@ report the median of 9 local trials and write the min/max ranges to
 | Write throughput (ops/s) | 25,502 | 68,681 |
 | Point read hit (us) | 10.75 | 84.26 |
 | Point read miss (us) | 0.47 | 5.77 |
-| Space amplification | 1.09x | 1.33x |
 | Write amplification | 1.00x | 2.93x |
+| Space amplification | 1.09x | 1.33x |
 | Compactions | 0 | 2 |
 | Bloom-filter skips (5k misses) | 0 | 23,270 |
 
